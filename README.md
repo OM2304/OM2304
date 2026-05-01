@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student in AI and Data Science field.<br>I'm looking to collaborate with teams working on AI, AI Agents, Fintech fields.<br>I'm eager to learn everything about the IT industry and stay updated on how the global tech ecosystem works.<br>I'm currently learning DSA, AI Agents, Security, and Backend development to build revolutionary solutions.<br>Finally, I'm an student-athlete playing multiple sports.
+I'm currently a student in Electronics & Computer Science field.<br>I'm looking to collaborate with teams working on AI, AI Agents, Fintech fields.<br>I'm eager to learn everything about the IT industry and stay updated on how the global tech ecosystem works.<br>I'm currently learning DSA, AI Agents, Security, and Backend development to build revolutionary solutions.<br>Finally, I'm an student-athlete playing multiple sports.
 
 
 ## 🌐 Socials:
